@@ -34,40 +34,13 @@ I'm a 19-year-old Java Backend Developer who believes that programming is modern
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Erjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TashmatovErjan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34C26&icon_color=E34C26&text_color=C9D1D9&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TashmatovErjan&theme=radical&hide_border=true&background=0D1117&ring=E34C26&fire=E34C26&currStreakLabel=E34C26)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TashmatovErjan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E34C26&text_color=C9D1D9&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=TashmatovErjan&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ---
 
@@ -81,18 +54,4 @@ I'm a 19-year-old Java Backend Developer who believes that programming is modern
 
 </div>
 
----
 
-<div align="center">
-
-### 💭 Dev Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-**✨ "Code is poetry written in logic" ✨**
-
-![Profile Views](https://komarev.com/ghpvc/?username=TashmatovErjan&color=E34C26&style=flat-square&label=Profile+Views)
-
-</div>
